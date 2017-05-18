@@ -388,6 +388,8 @@ var cat = Object.create(animalProto, {
 
 ## Reference
 
+1. [Webinar Video (ukrainian)](https://www.youtube.com/watch?v=FqhwaWM0yhA)
+
 1. [MDN JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
 
 1. [JavaScript: The Good Parts, Douglas Crockford](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
